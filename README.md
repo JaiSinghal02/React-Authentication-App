@@ -1,6 +1,6 @@
 <h2>Authentication App</h2>
 React App with Flask Server for user log-in/sign-up that uses jwt token for authentication with a validity of 5 minutes.
-
+<br><br>
 Available Scripts
 
 In the project directory, you can run:
